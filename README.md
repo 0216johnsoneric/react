@@ -1,5 +1,3 @@
-# React Quiz
-
 In this activity, we will begin by installing a few helpful packages and then explore the React documentation to answer questions.
 
 ## Instructions
